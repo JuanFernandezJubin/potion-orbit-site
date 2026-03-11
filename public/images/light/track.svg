@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#EFF6FF"/>
+  <rect x="50" y="40" width="300" height="220" rx="12" fill="#1E293B"/>
+  <rect x="50" y="40" width="300" height="30" rx="12" fill="#334155"/>
+  <circle cx="72" cy="55" r="5" fill="#F87171"/>
+  <circle cx="87" cy="55" r="5" fill="#FBBF24"/>
+  <circle cx="102" cy="55" r="5" fill="#34D399"/>
+  <text x="70" y="95" font-family="monospace" font-size="11" fill="#93C5FD">&lt;template&gt;</text>
+  <text x="85" y="112" font-family="monospace" font-size="11" fill="#E2E8F0">&lt;div class=</text>
+  <text x="183" y="112" font-family="monospace" font-size="11" fill="#34D399">"container"</text>
+  <text x="255" y="112" font-family="monospace" font-size="11" fill="#E2E8F0">&gt;</text>
+  <text x="100" y="129" font-family="monospace" font-size="11" fill="#FBBF24">&lt;h1&gt;</text>
+  <text x="132" y="129" font-family="monospace" font-size="11" fill="#E2E8F0">{{ title }}</text>
+  <text x="210" y="129" font-family="monospace" font-size="11" fill="#FBBF24">&lt;/h1&gt;</text>
+  <text x="100" y="146" font-family="monospace" font-size="11" fill="#FBBF24">&lt;p&gt;</text>
+  <text x="122" y="146" font-family="monospace" font-size="11" fill="#E2E8F0">{{ desc }}</text>
+  <text x="185" y="146" font-family="monospace" font-size="11" fill="#FBBF24">&lt;/p&gt;</text>
+  <text x="85" y="163" font-family="monospace" font-size="11" fill="#E2E8F0">&lt;/div&gt;</text>
+  <text x="70" y="180" font-family="monospace" font-size="11" fill="#93C5FD">&lt;/template&gt;</text>
+  <rect x="50" y="200" width="300" height="60" fill="#0F172A"/>
+  <text x="70" y="222" font-family="monospace" font-size="11" fill="#34D399">$</text>
+  <text x="82" y="222" font-family="monospace" font-size="11" fill="#E2E8F0">npm run build</text>
+  <text x="70" y="242" font-family="monospace" font-size="11" fill="#94A3B8"> Built in 1.2s</text>
+</svg>

@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "We transform ideas into exceptional",
+    "highlight": "digital experiences",
+    "description": "At Potion we create impactful websites and custom web applications that drive your business. Modern design, clean code, and measurable results."
+  },
+  "showcase": {
+    "title": "Boost your digital presence",
+    "description": "We combine creative design and technical development to create digital solutions that connect with your audience and deliver results.",
+    "feature1": {
+      "title": "User-centered design",
+      "description": "We craft intuitive and attractive interfaces based on UX research. Every pixel has a purpose to maximize conversion and user satisfaction."
+    },
+    "feature2": {
+      "title": "Robust and scalable development",
+      "description": "We use cutting-edge technologies like Vue, Nuxt, and Tailwind CSS to build fast, secure applications ready to grow with you."
+    },
+    "feature3": {
+      "title": "Measurable results",
+      "description": "Every project includes analytics and performance metrics. We continuously optimize so your digital investment delivers maximum return."
+    }
+  },
+  "features": {
+    "title": "Everything you need for your digital presence",
+    "description": "We offer a comprehensive web design and development service to take your brand to the next level.",
+    "items": {
+      "uiux": {
+        "title": "UI/UX Design",
+        "description": "Modern interfaces and memorable user experiences that convert visitors into customers."
+      },
+      "webdev": {
+        "title": "Web Development",
+        "description": "Fast and responsive websites built with the latest technologies from the JavaScript ecosystem."
+      },
+      "custom": {
+        "title": "Custom Applications",
+        "description": "Tailored web applications that automate processes and solve real business problems."
+      },
+      "seo": {
+        "title": "SEO & Performance",
+        "description": "Search engine optimization and loading speed so people find you and stay."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "Maintenance, updates, and technical support to keep your project in top condition."
+      },
+      "consulting": {
+        "title": "Digital Consulting",
+        "description": "We advise you on digital strategy, software architecture, and technology choices for your project."
+      }
+    }
+  },
+  "process": {
+    "title": "Our process in 4 steps",
+    "description": "A proven method to transform your vision into a functional and successful digital solution.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery",
+        "description": "We analyze your business, goals, and audience to define the perfect strategy. We understand what you need before writing a single line of code."
+      },
+      "design": {
+        "title": "Design",
+        "description": "We create wireframes and interactive prototypes to visualize your project. We iterate with you until we achieve the ideal design."
+      },
+      "development": {
+        "title": "Development",
+        "description": "We build your solution with clean code, modern technologies, and industry best practices. Rigorous testing included."
+      },
+      "launch": {
+        "title": "Launch",
+        "description": "We deploy your project, set up analytics, and accompany you through the first steps. Your digital success starts here."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Plans tailored to your business",
+    "description": "Choose the plan that best suits your needs. All include custom design, source code, and post-launch support.",
+    "plans": {
+      "starter": {
+        "title": "Starter",
+        "description": "Ideal for entrepreneurs and small businesses that need a professional web presence.",
+        "price": "€990",
+        "billingPeriod": "/project",
+        "billingCycle": "one-time payment",
+        "button": "Get Started",
+        "features": [
+          "Landing page or site up to 5 pages",
+          "Responsive and modern design",
+          "Basic SEO optimization",
+          "Contact form",
+          "Delivery in 2-3 weeks",
+          "1 month of support included"
+        ]
+      },
+      "business": {
+        "title": "Business",
+        "description": "For companies that need a complete and professional web solution.",
+        "price": "€2,990",
+        "billingPeriod": "/project",
+        "billingCycle": "one-time payment",
+        "button": "Choose Business",
+        "features": [
+          "Everything in Starter plan",
+          "Up to 15 custom pages",
+          "CMS admin panel",
+          "External API integration",
+          "Advanced performance optimization",
+          "3 months of support included"
+        ]
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Custom solutions for complex and large-scale projects.",
+        "price": "Custom",
+        "billingPeriod": "/project",
+        "billingCycle": "custom quote",
+        "button": "Contact Us",
+        "features": [
+          "Everything in Business plan",
+          "Custom web application",
+          "Scalable architecture & microservices",
+          "Integration with existing systems",
+          "Dedicated development team",
+          "12 months priority support"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What our clients say",
+    "description": "Companies that already trust Potion to drive their digital presence.",
+    "items": {
+      "testimonial1": {
+        "quote": "Potion completely transformed our online presence. The new website tripled our inquiries and the design is exactly what we needed. Top-tier professionals.",
+        "role": "CEO, StudioArq"
+      },
+      "testimonial2": {
+        "quote": "We needed a complex web application and the Potion team delivered it ahead of schedule. The code quality and attention to detail exceeded all our expectations.",
+        "role": "CTO, LogiTrack Solutions"
+      },
+      "testimonial3": {
+        "quote": "We've been working with Potion for two years and each project is better than the last. Their focus on performance and UX makes a real difference compared to other agencies.",
+        "role": "Marketing Director, NovaTech"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to take your project to the next level?",
+    "description": "Tell us your idea and we'll help you make it real. First consultation is free, no strings attached.",
+    "primaryButton": "Request a Quote",
+    "secondaryButton": "Learn More"
+  },
+  "footer": {
+    "newsletter": {
+      "label": "Subscribe to our newsletter",
+      "placeholder": "Enter your email",
+      "button": "Subscribe",
+      "success": "Subscribed!",
+      "successDescription": "You've been subscribed to our newsletter.",
+      "error": "Please enter a valid email address."
+    },
+    "columns": {
+      "services": {
+        "title": "Services",
+        "uiux": "UI/UX Design",
+        "webdev": "Web Development",
+        "custom": "Custom Apps",
+        "consulting": "Digital Consulting"
+      },
+      "company": {
+        "title": "Company",
+        "about": "About Us",
+        "projects": "Projects",
+        "team": "Team",
+        "blog": "Blog"
+      },
+      "resources": {
+        "title": "Resources",
+        "docs": "Documentation",
+        "support": "Support",
+        "faq": "FAQ",
+        "contact": "Contact"
+      }
+    },
+    "copyright": "Potion — Web Design & App Development"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "pricing": "Precios",
+    "testimonials": "Testimonios",
+    "contact": "Contactar"
+  },
+  "hero": {
+    "title": "Transformamos ideas en",
+    "highlight": "experiencias digitales",
+    "description": "En Potion creamos sitios web impactantes y aplicaciones web a medida que impulsan tu negocio. Diseño moderno, código limpio y resultados medibles."
+  },
+  "showcase": {
+    "title": "Impulsa tu presencia digital",
+    "description": "Combinamos diseño creativo y desarrollo técnico para crear soluciones digitales que conectan con tu audiencia y generan resultados.",
+    "feature1": {
+      "title": "Diseño centrado en el usuario",
+      "description": "Creamos interfaces intuitivas y atractivas basadas en investigación UX. Cada pixel tiene un propósito para maximizar la conversión y satisfacción del usuario."
+    },
+    "feature2": {
+      "title": "Desarrollo robusto y escalable",
+      "description": "Utilizamos las tecnologías más modernas como Vue, Nuxt y Tailwind CSS para construir aplicaciones rápidas, seguras y preparadas para crecer contigo."
+    },
+    "feature3": {
+      "title": "Resultados medibles",
+      "description": "Cada proyecto incluye analíticas y métricas de rendimiento. Optimizamos continuamente para que tu inversión digital genere el máximo retorno."
+    }
+  },
+  "features": {
+    "title": "Todo lo que necesitas para tu presencia digital",
+    "description": "Ofrecemos un servicio integral de diseño y desarrollo web para llevar tu marca al siguiente nivel.",
+    "items": {
+      "uiux": {
+        "title": "Diseño UI/UX",
+        "description": "Interfaces modernas y experiencias de usuario memorables que convierten visitantes en clientes."
+      },
+      "webdev": {
+        "title": "Desarrollo Web",
+        "description": "Sitios web rápidos y responsive con las últimas tecnologías del ecosistema JavaScript."
+      },
+      "custom": {
+        "title": "Apps a Medida",
+        "description": "Aplicaciones web personalizadas que automatizan procesos y resuelven problemas reales de tu negocio."
+      },
+      "seo": {
+        "title": "SEO y Rendimiento",
+        "description": "Optimización para motores de búsqueda y velocidad de carga para que te encuentren y se queden."
+      },
+      "support": {
+        "title": "Soporte Continuo",
+        "description": "Mantenimiento, actualizaciones y soporte técnico para que tu proyecto siempre esté en las mejores condiciones."
+      },
+      "consulting": {
+        "title": "Consultoría Digital",
+        "description": "Te asesoramos en estrategia digital, arquitectura de software y elección de tecnologías para tu proyecto."
+      }
+    }
+  },
+  "process": {
+    "title": "Nuestro proceso en 4 pasos",
+    "description": "Un método probado para transformar tu visión en una solución digital funcional y exitosa.",
+    "steps": {
+      "discovery": {
+        "title": "Descubrimiento",
+        "description": "Analizamos tu negocio, objetivos y audiencia para definir la estrategia perfecta. Entendemos qué necesitas antes de escribir una sola línea de código."
+      },
+      "design": {
+        "title": "Diseño",
+        "description": "Creamos wireframes y prototipos interactivos para visualizar tu proyecto. Iteramos contigo hasta lograr el diseño ideal."
+      },
+      "development": {
+        "title": "Desarrollo",
+        "description": "Construimos tu solución con código limpio, tecnologías modernas y las mejores prácticas de la industria. Testing riguroso incluido."
+      },
+      "launch": {
+        "title": "Lanzamiento",
+        "description": "Desplegamos tu proyecto, configuramos analíticas y te acompañamos en los primeros pasos. Tu éxito digital comienza aquí."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Planes adaptados a tu negocio",
+    "description": "Elige el plan que mejor se adapte a tus necesidades. Todos incluyen diseño personalizado, código fuente y soporte post-lanzamiento.",
+    "plans": {
+      "starter": {
+        "title": "Starter",
+        "description": "Ideal para emprendedores y pequeños negocios que necesitan presencia web profesional.",
+        "price": "€990",
+        "billingPeriod": "/proyecto",
+        "billingCycle": "pago único",
+        "button": "Empezar",
+        "features": [
+          "Landing page o sitio de hasta 5 páginas",
+          "Diseño responsive y moderno",
+          "Optimización SEO básica",
+          "Formulario de contacto",
+          "Entrega en 2-3 semanas",
+          "1 mes de soporte incluido"
+        ]
+      },
+      "business": {
+        "title": "Business",
+        "description": "Para empresas que necesitan una solución web completa y profesional.",
+        "price": "€2.990",
+        "billingPeriod": "/proyecto",
+        "billingCycle": "pago único",
+        "button": "Elegir Business",
+        "features": [
+          "Todo lo del plan Starter",
+          "Hasta 15 páginas personalizadas",
+          "Panel de administración CMS",
+          "Integración con APIs externas",
+          "Optimización de rendimiento avanzada",
+          "3 meses de soporte incluido"
+        ]
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Soluciones a medida para proyectos complejos y de gran escala.",
+        "price": "A consultar",
+        "billingPeriod": "/proyecto",
+        "billingCycle": "presupuesto personalizado",
+        "button": "Contactar",
+        "features": [
+          "Todo lo del plan Business",
+          "Aplicación web a medida",
+          "Arquitectura escalable y microservicios",
+          "Integración con sistemas existentes",
+          "Equipo dedicado de desarrollo",
+          "Soporte prioritario 12 meses"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "description": "Empresas que ya confían en Potion para impulsar su presencia digital.",
+    "items": {
+      "testimonial1": {
+        "quote": "Potion transformó completamente nuestra presencia online. El nuevo sitio web ha triplicado nuestras consultas y el diseño es exactamente lo que necesitábamos. Profesionales de primer nivel.",
+        "role": "CEO, StudioArq"
+      },
+      "testimonial2": {
+        "quote": "Necesitábamos una aplicación web compleja y el equipo de Potion la entregó antes del plazo. La calidad del código y la atención al detalle superaron todas nuestras expectativas.",
+        "role": "CTO, LogiTrack Solutions"
+      },
+      "testimonial3": {
+        "quote": "Llevamos dos años trabajando con Potion y cada proyecto es mejor que el anterior. Su enfoque en rendimiento y UX marca la diferencia frente a otras agencias.",
+        "role": "Directora de Marketing, NovaTech"
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para llevar tu proyecto al siguiente nivel?",
+    "description": "Cuéntanos tu idea y te ayudamos a hacerla realidad. Primera consulta gratuita y sin compromiso.",
+    "primaryButton": "Solicitar Presupuesto",
+    "secondaryButton": "Conocer más"
+  },
+  "footer": {
+    "newsletter": {
+      "label": "Suscríbete a nuestro newsletter",
+      "placeholder": "Tu correo electrónico",
+      "button": "Suscribir",
+      "success": "¡Suscrito correctamente!",
+      "successDescription": "Te has suscrito a nuestro newsletter.",
+      "error": "Por favor ingresa un correo electrónico válido."
+    },
+    "columns": {
+      "services": {
+        "title": "Servicios",
+        "uiux": "Diseño UI/UX",
+        "webdev": "Desarrollo Web",
+        "custom": "Apps a Medida",
+        "consulting": "Consultoría Digital"
+      },
+      "company": {
+        "title": "Empresa",
+        "about": "Sobre Nosotros",
+        "projects": "Proyectos",
+        "team": "Equipo",
+        "blog": "Blog"
+      },
+      "resources": {
+        "title": "Recursos",
+        "docs": "Documentación",
+        "support": "Soporte",
+        "faq": "FAQ",
+        "contact": "Contacto"
+      }
+    },
+    "copyright": "Potion — Diseño Web & Desarrollo de Aplicaciones"
+  }
+}
